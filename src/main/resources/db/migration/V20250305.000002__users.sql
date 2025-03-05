@@ -1,0 +1,6 @@
+CREATE TABLE users
+(
+    id    BIGINT PRIMARY KEY DEFAULT nextval('AP_UNIQUE_ID'),
+    name  VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL
+);
