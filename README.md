@@ -216,11 +216,11 @@ management:
 
 ---
 
-## License
-
-This project is provided for educational purposes. You may use and modify the code as needed.
+## Contributors
+- **Dzmitry Ivaniuta** - [GitHub Profile](https://github.com/DimitryIvaniuta)
 
 ---
 
-*End of README*
+## License
+This project is provided for educational purposes. You may use and modify the code as needed.
 
